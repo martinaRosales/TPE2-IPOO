@@ -1,5 +1,5 @@
 # TPE2-IPOO
-Trabajo Practico Entregable n°1 de Introduccion a la Programacion Orientada a Objetos
+Trabajo Practico Entregable n°2 de Introduccion a la Programacion Orientada a Objetos
 
 Enunciado: 
 
